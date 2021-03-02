@@ -1,0 +1,30 @@
+// xs
+@media (min-width: 0px) {
+  .paddingSetterGrid {
+    padding-top: 2rem;
+  }
+}
+// sm
+@media (min-width: 600px) {
+  .paddingSetterGrid {
+    padding-top: 2rem;
+  }
+}
+// md
+@media (min-width: 960px) {
+  .paddingSetterGrid {
+    padding-top: 2rem;
+  }
+}
+// lg
+@media (min-width: 1280px) {
+  .paddingSetterGrid {
+    padding-top: 0;
+  }
+}
+// xl
+@media (min-width: 1920px) {
+  .paddingSetterGrid {
+    padding-top: 0;
+  }
+}

@@ -1,0 +1,42 @@
+.material--flexGrow {
+  flex-grow: 1;
+}
+.material--margin-1rem {
+  margin: 1rem;
+}
+.material--marginTop-1rem {
+  margin-top: 1rem !important;
+}
+.material--marginTop-2rem {
+  margin-top: 2rem !important;
+}
+.material--padding-1rem {
+  padding: 1rem;
+}
+.material--background-color-white {
+  background-color: #fff;
+}
+.material--background-color-grey {
+  background-color: #f2f3f7;
+}
+body {
+  background-color: #f2f3f7;
+}
+.flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
+}
+.align-center {
+  align-items: center;
+}
+.justify-end {
+  justify-content: flex-end;
+}
+.cursorPointer {
+  cursor: pointer;
+}
+.height100 {
+  height: 100%;
+}
